@@ -1,0 +1,25 @@
+Qwidget {
+    color:white;
+    background-color: #151719;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20pt;
+    font-weight: 600;
+}
+
+QPushButton {
+    background-color: transparent;
+    border: none;
+}
+
+QPushButton:hover {
+    background-color: #161a1e;
+}
+
+QPushButton:pressed {
+    background-color: #1b1116;
+}
+
+QDoubleSpinBox {
+    background-color: transparent;
+    border: none;
+}
